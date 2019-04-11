@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont.eot?t=1554984340609'); /* IE9 */
+  src: url('./iconfont.eot?t=1554984340609#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAACUwAAAOLAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqGVIU+ATYCJAMICwYABCAFhG0HMhvmB8geBe7OVnCj4JHzFTzP2/mdm5ngv/mEtxP9FkoWdgWWLqUKKuFszVV6yOMj1JGsOiL15Hfa7JZzBXLvJAnzynwCBEz8z7HkK/H8fgHUCh0Ndry35wOsCNEAKTDcMHZxGcdDAEW8XNLa/niDFibaagLI+DFKQCumxSwpFFwIjpxtTWQDdly21bYHwHr36+UzxbnAht1AK+k88mjC5l2YTmpor6a/oeH1ZwaYncAAcoEJ0j3X2pGqL851pSrPWiO5vNFE4F2Y12tzZ/uPBwLiQJP6Qkwsd594Jn9XpTb8cRPIhGSA1LSKQeaim11imdEAiRMFaX3vx1/mLRb/I9cjHdbi01bA8Vsxzl030x3+7hOonTfSAjwR20+LNh87rqc665jHDyUnoU9a81TVB7Ccc/zdW/RWK0D68nXHfS97962MrZ6Iozei+v4/6qEvZPZj2r5b7DT39Ui9M6zNHz51SZ486TUMPk8oJZbnJASiuSZH1LhPjTBmimyQrab4urct3m75ebbqLaqzAijrcoY+k3rEnX7snOy/5bkRV7JUw+QDJUon+gf5e2mJquTAgcmQAyu0T/nP3JDBkB5EHfekhskbtTA2yN803jbWfu/GAynGhcnOVf6rnJMTN5+S5pEb+eraf7/Sf50YM86dtWh9+mgtKddmjLO/7vwJUiXlJSroz53LY8alvynSUhDZa4s6bUbidjX9dmAtkguDyhrtMR1hwwFrwiKcIA9pvQcQD96oc1ixyi3MVcVh8qD1gWgEAK82Lhv6Z/oeGnvrNwcF1H5zWSYATx913OKu4NUmhgZct9wm8Ovwao6YskDT2UyRl5u0SQaZr6RBoQAv2BnsdduW95QUXIS9LbuTuBAMXKQiTEwu2LEoBQcuGkCRo8POFiGmUkVMHyDbcgBCoPNgw59bYBDoIcLEvAI74b6Cg8AMUPSUkH1apDdGtUwlkZCJQ0scY3AgDUPS8QpfSKWeiKICF/tBUWwHsCi/MJk4U0BRHxtMy9R6eiJxZMQ+toOTkecxTo7YISOZj06Sp15QMDLviebD2IcOLUQQggTCBA2lBI3BgAmQ9uyETurzXyAUKR6CqKSjRP0BERFjLxwVyVdYA3GWBrU6zuUm08hQrE0nQYJGEsH4oHZgJjw9yqDJ+Us5EAYJc6NbhJ/oCtCkkXWl8/Hl/tWdAyg0lU30xQ1cQyex64vIBQAA') format('woff2'),
+  url('./iconfont.woff?t=1554984340609') format('woff'),
+  url('./iconfont.ttf?t=1554984340609') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont.svg?t=1554984340609#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 50px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bookmark:before {
+  content: "\e615";
+}
+
