@@ -39,4 +39,34 @@
       ]
     }
   }
+  ```
   
+  ## 使用source-map查找错误原，使用watch实时更新，使用webpack-dev-server刷新页面
+  
+  ```
+  npm install webpack-dev-server --save-dev
+  
+  ```
+  
+  ```
+  webpack.config.js
+  
+  module.export = {
+    mode: 'development',
+    entry:{....},
+    dectool: 'inline-source-map',
+    devServer: {
+      contentBase: './dist'
+    }
+  }
+  ```
+  
+  ```
+  package.json
+  
+  scripts: {
+    ....
+    "wathch": "webpack --watch",
+    "start": "webpack-dev-server --open"
+  }
+  ```
